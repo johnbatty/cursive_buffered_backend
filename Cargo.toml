@@ -13,7 +13,7 @@ description = "The buffering backend for any Cursive backend"
 smallvec = ">=0"
 unicode-segmentation = ">=1"
 unicode-width = ">=0"
-enumset = ">=0"
+enumset = "0.3.17"
 crossbeam-channel = ">=0"
 log = ">=0"
 
