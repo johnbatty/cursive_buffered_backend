@@ -18,6 +18,6 @@ crossbeam-channel = ">=0"
 log = ">=0"
 
 [dependencies.cursive]
-version = "0.11.3-alpha.0"
+version = "=0.11.3-alpha.0"
 default-features = false
 git = "https://github.com/jack-atack/Cursive.git"
