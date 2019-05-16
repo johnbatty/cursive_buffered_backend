@@ -21,4 +21,3 @@ log = ">=0"
 version = ">=0.10"
 default-features = false
 git = "https://github.com/jack-atack/Cursive.git"
-tag = "0.11.2"
